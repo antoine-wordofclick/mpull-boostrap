@@ -189,6 +189,11 @@ body {
     color: #fff;
     background-color: #212121;
     padding: 10%; }
+    body .footer a {
+      color: #fff; }
+    body .footer a:hover {
+      color: #c63f1a;
+      text-decoration: none; }
     body .footer .copyright {
       padding: 10%;
       text-align: center; }
