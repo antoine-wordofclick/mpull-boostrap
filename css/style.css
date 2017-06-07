@@ -60,8 +60,7 @@ body {
     color: #fff;
     background-color: #c63f1a; }
   body .banner {
-    background-image: url("../images/header-01.jpg");
-    overlay: 0, 0, 0, 0.5;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/header-01.jpg");
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
