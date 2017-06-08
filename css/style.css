@@ -195,6 +195,9 @@ body {
     color: #fff;
     background-color: #212121;
     padding: 10%; }
+    @media (max-width: 767px) {
+      body .footer {
+        text-align: center; } }
     body .footer a {
       color: #fff; }
     body .footer a:hover {
